@@ -112,13 +112,11 @@ No activity tracked
 
 ---
 
-### 🙈 StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-- [Is this a memory leak in Guzzle middleware?](https://stackoverflow.com/questions/33155886/is-this-a-memory-leak-in-guzzle-middleware)
-- [Answer by suvozit for How to uniquely identify user logging in via oauth?](https://stackoverflow.com/questions/21145560/how-to-uniquely-identify-user-logging-in-via-oauth/33026038#33026038)
-- [Memory leak: PHP guzzle/oauth-subscriber](https://stackoverflow.com/questions/33025963/memory-leak-php-guzzle-oauth-subscriber)
-- [Answer by suvozit for Add extra header information in codeigniter email](https://stackoverflow.com/questions/9062192/add-extra-header-information-in-codeigniter-email/30558524#30558524)
-<!-- STACKOVERFLOW:END -->
+### 🙈 Latest StackOverflow Activity
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+  <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
+</table>
 
 <br />
 
