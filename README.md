@@ -96,10 +96,10 @@ No activity tracked
 
 ---
 
-![Update stats](https://github.com/suvozy/suvozy/workflows/Update%20stats/badge.svg)  
-![Latest YouTube Videos](https://github.com/suvozy/suvozy/workflows/Latest%20YouTube%20Videos/badge.svg)  
-![Latest StackOverflow activity](https://github.com/suvozy/suvozy/actions/workflows/stack-overflow-workflow.yml/badge.svg)  
-![Latest Blog Post workflow](https://github.com/suvozy/suvozy/workflows/Latest%20blog%20post%20workflow/badge.svg)
+[![Update stats](https://github.com/suvozy/suvozy/actions/workflows/update-stats.yml/badge.svg)](https://github.com/suvozy/suvozy/actions/workflows/update-stats.yml)  
+[![Latest YouTube Videos](https://github.com/suvozy/suvozy/actions/workflows/youtube-workflow.yml/badge.svg)](https://github.com/suvozy/suvozy/actions/workflows/youtube-workflow.yml)  
+[![Latest stack oveflow activity](https://github.com/suvozy/suvozy/actions/workflows/stack-overflow-workflow.yml/badge.svg)](https://github.com/suvozy/suvozy/actions/workflows/stack-overflow-workflow.yml)  
+[![Latest blog post workflow](https://github.com/suvozy/suvozy/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/suvozy/suvozy/actions/workflows/blog-post-workflow.yml)
 
 [website]: https://www.shubhajitsaha.com
 [behance]: https://www.behance.net/suvozy
