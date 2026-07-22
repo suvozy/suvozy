@@ -104,8 +104,8 @@ No activity tracked
 ---
 
 ![Update stats](https://github.com/suvozy/suvozy/workflows/Update%20stats/badge.svg)  
-![Latest YouTube Videos](https://github.com/suvozy/suvozy/workflows/Latest%20YouTube%20Videos/badge.svg)
-![Latest StackOverflow activity](https://github.com/suvozy/suvozy/actions/workflows/stack-overflow-workflow.yml/badge.svg)
+![Latest YouTube Videos](https://github.com/suvozy/suvozy/workflows/Latest%20YouTube%20Videos/badge.svg)  
+![Latest StackOverflow activity](https://github.com/suvozy/suvozy/actions/workflows/stack-overflow-workflow.yml/badge.svg)  
 ![Latest Blog Post workflow](https://github.com/suvozy/suvozy/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 [website]: https://www.shubhajitsaha.com
