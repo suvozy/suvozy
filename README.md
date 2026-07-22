@@ -67,9 +67,6 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 [<img align="left" alt="suvozy | Twitch" width="22px" src="https://simpleicons.org/icons/twitch.svg" />][twitch]
 [<img align="left" alt="suvozy | Xbox" width="22px" src="https://simpleicons.org/icons/xbox.svg" />][xbox]
 
-<br />
-
----
 
 ### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
@@ -95,10 +92,6 @@ No activity tracked
 - [Watch me play PUBG MOBILE via Stream Labs!](https://www.youtube.com/watch?v=9CT1SyBuaHo)
 <!-- YOUTUBE:END -->
 
-<br />
-
----
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [My First Blog](https://dev.to/suvozit/my-first-blog-e2l)
@@ -108,30 +101,18 @@ No activity tracked
 - [Shubho Noboborsho sobike 🥳😷🦠 #noboborsho1426 #stayhome #staysafe...](https://suvozit.tumblr.com/post/615373228046778368)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-
----
-
 ### 🙈 Latest StackOverflow Activity
 <table>
   <tr><th>Title</th><th>Link</th></tr>
   <!-- STACKOVERFLOW:START --><tr><td>Is this a memory leak in Guzzle middleware?</td><td>https://stackoverflow.com/questions/33155886/is-this-a-memory-leak-in-guzzle-middleware</td></tr><tr><td>Answer by suvozy for How to uniquely identify user logging in via oauth?</td><td>https://stackoverflow.com/questions/21145560/how-to-uniquely-identify-user-logging-in-via-oauth/33026038#33026038</td></tr><tr><td>Memory leak: PHP guzzle/oauth-subscriber</td><td>https://stackoverflow.com/questions/33025963/memory-leak-php-guzzle-oauth-subscriber</td></tr><tr><td>Answer by suvozy for Add extra header information in codeigniter email</td><td>https://stackoverflow.com/questions/9062192/add-extra-header-information-in-codeigniter-email/30558524#30558524</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
-<br />
-
 ---
 
-![suvozy's Github Stats](https://github-readme-stats.vercel.app/api?username=suvozy&show_icons=true&hide_border=true&show_icons=true&theme=great-gatsby)
-
-<br />
-
-[![](https://www.xboxgamertag.com/gamercard/bitsits/newnxe/card.png)][xbox]
-
-![Latest YouTube Videos](https://github.com/suvozy/suvozy/workflows/Latest%20YouTube%20Videos/badge.svg)  
 ![Update stats](https://github.com/suvozy/suvozy/workflows/Update%20stats/badge.svg)  
-![Latest stack overflow activity](https://github.com/suvozy/suvozy/workflows/Latest%20stack%20overflow%20activity/badge.svg)  
-![Latest blog post workflow](https://github.com/suvozy/suvozy/workflows/Latest%20blog%20post%20workflow/badge.svg)
+![Latest YouTube Videos](https://github.com/suvozy/suvozy/workflows/Latest%20YouTube%20Videos/badge.svg)  
+![Latest StackOverflow activity](https://github.com/suvozy/suvozy/workflows/Latest%20stack%20overflow%20activity/badge.svg)  
+![Latest Blog Post workflow](https://github.com/suvozy/suvozy/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 [website]: https://www.shubhajitsaha.com
 [behance]: https://www.behance.net/suvozy
