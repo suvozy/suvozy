@@ -84,6 +84,11 @@ No activity tracked
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My First Blog](https://dev.to/suvozy/my-first-blog-e2l)
+- [“hum kya chahte, azadi” #independenceday #fascist #india...](https://suvozy.tumblr.com/post/626502731168890880)
+- [A man in Eden #watercolor #watercolours #watercolorpainting...](https://suvozy.tumblr.com/post/626153014035693568)
+- [Howrah - 711 101 #shaymachastall #netajisubhasroad #howrah...](https://suvozy.tumblr.com/post/622349250048688128)
+- [Shubho Noboborsho sobike 🥳😷🦠 #noboborsho1426 #stayhome #staysafe...](https://suvozy.tumblr.com/post/615373228046778368)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🙈 Latest StackOverflow Activity
