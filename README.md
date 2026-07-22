@@ -38,7 +38,8 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 [<img align="left" alt="suvozy | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="suvozy | Medium" width="22px" src="https://simpleicons.org/icons/medium.svg" />][medium]
 [<img align="left" alt="suvozy | Tumblr" width="22px" src="https://simpleicons.org/icons/tumblr.svg" />][tumblr]
-[<img align="left" alt="suvozy | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
+[<img align="left" alt="suvozy | Twitter" width="22px" src="https://simpleicons.org/icons/x.svg" />][twitter]
+
 [<img align="left" alt="suvozy | Unsplash" width="22px" src="https://simpleicons.org/icons/unsplash.svg" />][unsplash]
 [<img align="left" alt="suvozy | Vimeo" width="22px" src="https://simpleicons.org/icons/vimeo.svg" />][vimeo]
 [<img align="left" alt="suvozy | Wordpress" width="22px" src="https://simpleicons.org/icons/wordpress.svg" />][wordpress]
