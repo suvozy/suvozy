@@ -137,19 +137,19 @@ No Activity tracked this Week
 [facebook]: https://www.facebook.com/suvozzy
 [foursquare]: https://foursquare.com/suvozit
 [flickr]: https://www.flickr.com/photos/suvozit
-[giphy]: https://giphy.com/channel/suvozit
+[giphy]: https://giphy.com/channel/suvozy
 [instagram]: https://instagram.com/suvozy
 [linkedin]: https://linkedin.com/in/suvozy
 [medium]: https://medium.com/@suvozy
 [tumblr]: https://suvozy.tumblr.com
 [twitter]: https://twitter.com/suvozy
-[unsplash]: https://unsplash.com/@suvozit
+[unsplash]: https://unsplash.com/@suvozy
 [vimeo]: https://vimeo.com/suvozy
 [wordpress]: https://suvozy.wordpress.com
 
 [acm]: https://dl.acm.org/profile/87959207857
-[bitbucket]: https://bitbucket.org/suvozit
-[dev-dot-to]: http://dev.to/suvozit
+[bitbucket]: https://bitbucket.org/suvozzy
+[dev-dot-to]: http://dev.to/suvozy
 [github]: https://github.com/suvozy
 [spoj]: https://www.spoj.com/users/my_zit
 [keybase]: https://keybase.io/suvozit
@@ -160,7 +160,7 @@ No Activity tracked this Week
 [youtubemusic]: https://music.youtube.com/channel/UCok9vHtB8qv7HIvEZuArGLA
 [mixer]: https://mixer.com/suvozit
 [omlet]: https://omlet.gg/stream/suvozit
-[steam]: https://steamcommunity.com/id/suvozit
+[steam]: https://steamcommunity.com/id/suvozy
 [twitch]: https://www.twitch.tv/suvozy
 [xbox]: http://live.xbox.com/Profile?Gamertag=bitsits
 
