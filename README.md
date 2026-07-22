@@ -138,7 +138,7 @@ No activity tracked
 [website]: https://www.shubhajitsaha.com
 [behance]: https://www.behance.net/suvozy
 [blogger]: https://suvozit.blogspot.com
-[dribbble]: https://dribbble.com/suvozit
+[dribbble]: https://dribbble.com/suvozy
 [facebook]: https://www.facebook.com/suvozzy
 [foursquare]: https://foursquare.com/suvozit
 [flickr]: https://www.flickr.com/photos/suvozit
