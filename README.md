@@ -85,20 +85,10 @@ No activity tracked
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Hizz Shot plays PUBG MOBILE - 2nd Anniversary: 2gether We Play #iOS](https://www.youtube.com/watch?v=_BEy5_7lNOo)
-- [Hizz Shot plays PUBG MOBILE - 2nd Anniversary: 2gether We Play #iOS](https://www.youtube.com/watch?v=9H_lx4TuCfc)
-- [Watch me play PUBG MOBILE via Stream Labs!](https://www.youtube.com/watch?v=Jz__lNgcSXQ)
-- [Watch me play PUBG MOBILE via Stream Labs!](https://www.youtube.com/watch?v=JpN-qZdNSF8)
-- [Watch me play PUBG MOBILE via Stream Labs!](https://www.youtube.com/watch?v=9CT1SyBuaHo)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My First Blog](https://dev.to/suvozit/my-first-blog-e2l)
-- [“hum kya chahte, azadi” #independenceday #fascist #india...](https://suvozit.tumblr.com/post/626502731168890880)
-- [A man in Eden #watercolor #watercolours #watercolorpainting...](https://suvozit.tumblr.com/post/626153014035693568)
-- [Howrah - 711 101 #shaymachastall #netajisubhasroad #howrah...](https://suvozit.tumblr.com/post/622349250048688128)
-- [Shubho Noboborsho sobike 🥳😷🦠 #noboborsho1426 #stayhome #staysafe...](https://suvozit.tumblr.com/post/615373228046778368)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🙈 Latest StackOverflow Activity
