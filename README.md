@@ -67,6 +67,8 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 [<img align="left" alt="suvozy | Twitch" width="22px" src="https://simpleicons.org/icons/twitch.svg" />][twitch]
 [<img align="left" alt="suvozy | Xbox" width="22px" src="https://simpleicons.org/icons/xbox.svg" />][xbox]
 
+<br />
+<br />
 
 ### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
@@ -92,10 +94,7 @@ No activity tracked
 <!-- BLOG-POST-LIST:END -->
 
 ### 🙈 Latest StackOverflow Activity
-<table>
-  <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><tr><td>Is this a memory leak in Guzzle middleware?</td><td>https://stackoverflow.com/questions/33155886/is-this-a-memory-leak-in-guzzle-middleware</td></tr><tr><td>Answer by suvozy for How to uniquely identify user logging in via oauth?</td><td>https://stackoverflow.com/questions/21145560/how-to-uniquely-identify-user-logging-in-via-oauth/33026038#33026038</td></tr><tr><td>Memory leak: PHP guzzle/oauth-subscriber</td><td>https://stackoverflow.com/questions/33025963/memory-leak-php-guzzle-oauth-subscriber</td></tr><tr><td>Answer by suvozy for Add extra header information in codeigniter email</td><td>https://stackoverflow.com/questions/9062192/add-extra-header-information-in-codeigniter-email/30558524#30558524</td></tr><!-- STACKOVERFLOW:END -->
-</table>
+<!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
 
 ---
 
