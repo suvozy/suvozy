@@ -20,10 +20,6 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 - 😄 Pronouns: Bengali, Foodie, Snoozer
 - ⚡ Fun fact: I'm a Gemini ♊️
 
-<br />
-
----
-
 ### 🦉 Connect with me:
 
 [<img align="left" alt="www.shubhajitsaha.com" width="22px" src="https://simpleicons.org/icons/rss.svg" />][website]
@@ -68,7 +64,8 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 [<img align="left" alt="suvozy | Xbox" width="22px" src="https://simpleicons.org/icons/xbox.svg" />][xbox]
 
 <br />
-<br />
+
+---
 
 ### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
@@ -80,10 +77,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-<br />
-
----
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
