@@ -11,8 +11,8 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 
 ## Artist // Entrepreneur // Streamer
 
-- 🔭 I’m currently working on [Mudra](https://www.mudra.club)
-- 🌱 I’m currently learning AI, ML, Blockchain
+- 🔭 I’m currently pursuing M.Des @ [IIT Gandhinagar](https://iitgn.ac.in/careers/dic.html)
+- 🌱 I’m also learning AI, ML, Blockchain
 - 👯 I’m looking to collaborate on Technical Architectures
 - 🤔 I’m looking for help with Blockchian
 - 💬 Ask me about Anything
