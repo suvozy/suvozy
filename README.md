@@ -83,12 +83,16 @@ No activity tracked
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [My First Blog](https://dev.to/suvozy/my-first-blog-e2l)
-- [“hum kya chahte, azadi” #independenceday #fascist #india...](https://suvozy.tumblr.com/post/626502731168890880)
-- [A man in Eden #watercolor #watercolours #watercolorpainting...](https://suvozy.tumblr.com/post/626153014035693568)
-- [Howrah - 711 101 #shaymachastall #netajisubhasroad #howrah...](https://suvozy.tumblr.com/post/622349250048688128)
-- [Shubho Noboborsho sobike 🥳😷🦠 #noboborsho1426 #stayhome #staysafe...](https://suvozy.tumblr.com/post/615373228046778368)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/shorts/HPJDouIl7Xo"><img width="140px" src="http://img.youtube.com/vi/HPJDouIl7Xo/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/HPJDouIl7Xo">Nilavil Ellame 🎧 - Ukulele Cover</a><br/>Apr 19, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/RYJ0-9t6vOY"><img width="140px" src="http://img.youtube.com/vi/RYJ0-9t6vOY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/RYJ0-9t6vOY">Makane X Koodappirannor | Guitar Chord Progression Practice | Alwin John</a><br/>Apr 14, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/pNu4e4f6e1U"><img width="140px" src="http://img.youtube.com/vi/pNu4e4f6e1U/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/pNu4e4f6e1U">Uyire | Minnal Murali | Fingerstyle Guitar Cover | Alwin John</a><br/>Mar 21, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Xk6zxJEcD0w"><img width="140px" src="http://img.youtube.com/vi/Xk6zxJEcD0w/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Xk6zxJEcD0w">Akale &lpar;From &quot;9 &lpar;Nine&rpar; Malayalam&quot;&rpar; | Fingerstyle Guitar Cover | Alwin John</a><br/>Mar 7, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/oHfBtRAWBlM"><img width="140px" src="http://img.youtube.com/vi/oHfBtRAWBlM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/oHfBtRAWBlM">Onnamkilli Ponnankili &lpar;Kilichundan Mambazham&rpar; | Fingerstyle Guitar Cover | Alwin John</a><br/>Mar 6, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ### 🙈 Latest StackOverflow Activity
