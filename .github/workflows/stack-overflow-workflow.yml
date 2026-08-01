@@ -2,7 +2,7 @@ name: Latest stack overflow activity
 on:
   schedule:
     # Runs every 5 minutes
-    - cron: '*/30 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -18,3 +18,4 @@ jobs:
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Updated readme with the latest stackOverflow data"
           feed_list: "https://stackoverflow.com/feeds/user/3466389"
+
