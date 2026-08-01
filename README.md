@@ -68,7 +68,17 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 ---
 
 ### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START --><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/a19cVWWZuq4"><img width="140px" src="http://img.youtube.com/vi/a19cVWWZuq4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/a19cVWWZuq4">Braman auntie takes off 🚀 #Viral #ShwetaJaya #MeghaLawadia #Bramanwad “Bramanwad Zindabad” Girl</a><br/>Mar 2, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/g3iQNipTYT0"><img width="140px" src="http://img.youtube.com/vi/g3iQNipTYT0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/g3iQNipTYT0">Braman peak content #modi #reacts #roflgandhi #podcast #funny #comedy #theculturedcafe</a><br/>Mar 2, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/aqZWyTAYP10"><img width="140px" src="http://img.youtube.com/vi/aqZWyTAYP10/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/aqZWyTAYP10">India = Bharat = casteist #bihar #biharelection2025 #harshrajput #harshrajputnewvideo #comedy #funny</a><br/>Mar 2, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/szHATgw-_6A"><img width="140px" src="http://img.youtube.com/vi/szHATgw-_6A/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/szHATgw-_6A">Gandlotiya AI #aisummit #galgotiasviralvideo #galgotiauniversity #galgotiasuniversitynoida</a><br/>Feb 27, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/VFY9_mShdqE"><img width="140px" src="http://img.youtube.com/vi/VFY9_mShdqE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/VFY9_mShdqE">Ponga Pandit Live #braman #live #callrecording #reservation बड़ी कंपनी का GM निकला पोंगा पंडित</a><br/>Feb 27, 2026</td></tr></table>
+<!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
