@@ -81,7 +81,13 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Sketching some bears from the bear cam! 🐻🐟](https://suvozy.tumblr.com/post/823680167300005888)
+- [🙂&amp;zwj;&amp;harr;️](https://suvozy.tumblr.com/post/823633836574441472)
+- [My First Blog](https://dev.to/suvozy/my-first-blog-e2l)
+- [“hum kya chahte, azadi” #independenceday #fascist #india...](https://suvozy.tumblr.com/post/626502731168890880)
+- [A man in Eden #watercolor #watercolours #watercolorpainting...](https://suvozy.tumblr.com/post/626153014035693568)
+<!-- BLOG-POST-LIST:END -->
 
 ### 🙈 Latest StackOverflow Activity
 <table>
