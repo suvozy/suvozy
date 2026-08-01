@@ -83,16 +83,16 @@ No activity tracked
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/shorts/HPJDouIl7Xo"><img width="140px" src="http://img.youtube.com/vi/HPJDouIl7Xo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/HPJDouIl7Xo">Nilavil Ellame 🎧 - Ukulele Cover</a><br/>Apr 19, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/RYJ0-9t6vOY"><img width="140px" src="http://img.youtube.com/vi/RYJ0-9t6vOY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/RYJ0-9t6vOY">Makane X Koodappirannor | Guitar Chord Progression Practice | Alwin John</a><br/>Apr 14, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/pNu4e4f6e1U"><img width="140px" src="http://img.youtube.com/vi/pNu4e4f6e1U/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/pNu4e4f6e1U">Uyire | Minnal Murali | Fingerstyle Guitar Cover | Alwin John</a><br/>Mar 21, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Xk6zxJEcD0w"><img width="140px" src="http://img.youtube.com/vi/Xk6zxJEcD0w/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Xk6zxJEcD0w">Akale &lpar;From &quot;9 &lpar;Nine&rpar; Malayalam&quot;&rpar; | Fingerstyle Guitar Cover | Alwin John</a><br/>Mar 7, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/oHfBtRAWBlM"><img width="140px" src="http://img.youtube.com/vi/oHfBtRAWBlM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/oHfBtRAWBlM">Onnamkilli Ponnankili &lpar;Kilichundan Mambazham&rpar; | Fingerstyle Guitar Cover | Alwin John</a><br/>Mar 6, 2026</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/shorts/a19cVWWZuq4"><img width="140px" src="http://img.youtube.com/vi/a19cVWWZuq4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/a19cVWWZuq4">Braman auntie takes off 🚀 #Viral #ShwetaJaya #MeghaLawadia #Bramanwad “Bramanwad Zindabad” Girl</a><br/>Mar 2, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/g3iQNipTYT0"><img width="140px" src="http://img.youtube.com/vi/g3iQNipTYT0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/g3iQNipTYT0">Braman peak content #modi #reacts #roflgandhi #podcast #funny #comedy #theculturedcafe</a><br/>Mar 2, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/aqZWyTAYP10"><img width="140px" src="http://img.youtube.com/vi/aqZWyTAYP10/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/aqZWyTAYP10">India = Bharat = casteist #bihar #biharelection2025 #harshrajput #harshrajputnewvideo #comedy #funny</a><br/>Mar 2, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/szHATgw-_6A"><img width="140px" src="http://img.youtube.com/vi/szHATgw-_6A/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/szHATgw-_6A">Gandlotiya AI #aisummit #galgotiasviralvideo #galgotiauniversity #galgotiasuniversitynoida</a><br/>Feb 27, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/VFY9_mShdqE"><img width="140px" src="http://img.youtube.com/vi/VFY9_mShdqE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/VFY9_mShdqE">Ponga Pandit Live #braman #live #callrecording #reservation बड़ी कंपनी का GM निकला पोंगा पंडित</a><br/>Feb 27, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ### 🙈 Latest StackOverflow Activity
