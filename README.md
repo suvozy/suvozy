@@ -71,9 +71,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 ### 📺 Latest YouTube Videos
-<table><tr>
-    <!-- YOUTUBE:START --><!-- YOUTUBE:END -->
-</tr></table>
+<!-- YOUTUBE:START --><!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
