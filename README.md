@@ -68,40 +68,21 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 ---
 
 ### 📊 This week I spent my time on
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 July 2026 - To: 31 July 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 ### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<table><tr>
+    <!-- YOUTUBE:START --><!-- YOUTUBE:END -->
+</tr></table>
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/shorts/a19cVWWZuq4"><img width="140px" src="http://img.youtube.com/vi/a19cVWWZuq4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/a19cVWWZuq4">Braman auntie takes off 🚀 #Viral #ShwetaJaya #MeghaLawadia #Bramanwad “Bramanwad Zindabad” Girl</a><br/>Mar 2, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/g3iQNipTYT0"><img width="140px" src="http://img.youtube.com/vi/g3iQNipTYT0/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/g3iQNipTYT0">Braman peak content #modi #reacts #roflgandhi #podcast #funny #comedy #theculturedcafe</a><br/>Mar 2, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/aqZWyTAYP10"><img width="140px" src="http://img.youtube.com/vi/aqZWyTAYP10/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/aqZWyTAYP10">India = Bharat = casteist #bihar #biharelection2025 #harshrajput #harshrajputnewvideo #comedy #funny</a><br/>Mar 2, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/szHATgw-_6A"><img width="140px" src="http://img.youtube.com/vi/szHATgw-_6A/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/szHATgw-_6A">Gandlotiya AI #aisummit #galgotiasviralvideo #galgotiauniversity #galgotiasuniversitynoida</a><br/>Feb 27, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/VFY9_mShdqE"><img width="140px" src="http://img.youtube.com/vi/VFY9_mShdqE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/VFY9_mShdqE">Ponga Pandit Live #braman #live #callrecording #reservation बड़ी कंपनी का GM निकला पोंगा पंडित</a><br/>Feb 27, 2026</td></tr></table>
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 ### 🙈 Latest StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-- [Is this a memory leak in Guzzle middleware?](https://stackoverflow.com/questions/33155886/is-this-a-memory-leak-in-guzzle-middleware)
-- [Answer by suvozy for How to uniquely identify user logging in via oauth?](https://stackoverflow.com/questions/21145560/how-to-uniquely-identify-user-logging-in-via-oauth/33026038#33026038)
-- [Memory leak: PHP guzzle/oauth-subscriber](https://stackoverflow.com/questions/33025963/memory-leak-php-guzzle-oauth-subscriber)
-- [Answer by suvozy for Add extra header information in codeigniter email](https://stackoverflow.com/questions/9062192/add-extra-header-information-in-codeigniter-email/30558524#30558524)
-<!-- STACKOVERFLOW:END -->
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+  <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
+</table>
 
 ---
 
