@@ -76,12 +76,16 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 </tr></table>
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Sketching some bears from the bear cam! 🐻🐟](https://suvozy.tumblr.com/post/823680167300005888)
-- [🙂&amp;zwj;&amp;harr;️](https://suvozy.tumblr.com/post/823633836574441472)
-- [My First Blog](https://dev.to/suvozy/my-first-blog-e2l)
-- [“hum kya chahte, azadi” #independenceday #fascist #india...](https://suvozy.tumblr.com/post/626502731168890880)
-- [A man in Eden #watercolor #watercolours #watercolorpainting...](https://suvozy.tumblr.com/post/626153014035693568)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/shorts/a19cVWWZuq4"><img width="140px" src="http://img.youtube.com/vi/a19cVWWZuq4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/a19cVWWZuq4">Braman auntie takes off 🚀 #Viral #ShwetaJaya #MeghaLawadia #Bramanwad “Bramanwad Zindabad” Girl</a><br/>Mar 2, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/g3iQNipTYT0"><img width="140px" src="http://img.youtube.com/vi/g3iQNipTYT0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/g3iQNipTYT0">Braman peak content #modi #reacts #roflgandhi #podcast #funny #comedy #theculturedcafe</a><br/>Mar 2, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/aqZWyTAYP10"><img width="140px" src="http://img.youtube.com/vi/aqZWyTAYP10/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/aqZWyTAYP10">India = Bharat = casteist #bihar #biharelection2025 #harshrajput #harshrajputnewvideo #comedy #funny</a><br/>Mar 2, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/szHATgw-_6A"><img width="140px" src="http://img.youtube.com/vi/szHATgw-_6A/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/szHATgw-_6A">Gandlotiya AI #aisummit #galgotiasviralvideo #galgotiauniversity #galgotiasuniversitynoida</a><br/>Feb 27, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/VFY9_mShdqE"><img width="140px" src="http://img.youtube.com/vi/VFY9_mShdqE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/VFY9_mShdqE">Ponga Pandit Live #braman #live #callrecording #reservation बड़ी कंपनी का GM निकला पोंगा पंडित</a><br/>Feb 27, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ### 🙈 Latest StackOverflow Activity
