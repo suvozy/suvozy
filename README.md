@@ -89,13 +89,6 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 - [A man in Eden #watercolor #watercolours #watercolorpainting...](https://suvozy.tumblr.com/post/626153014035693568)
 <!-- BLOG-POST-LIST:END -->
 
-### 🙈 Latest StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
-
-### 📊 This week I spent my time on
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
-
 ---
 
 [![Update stats](https://github.com/suvozy/suvozy/actions/workflows/update-stats.yml/badge.svg)](https://github.com/suvozy/suvozy/actions/workflows/update-stats.yml)  
