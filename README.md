@@ -91,8 +91,8 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 
 ---
 
-[![Update stats](https://github.com/suvozy/suvozy/actions/workflows/update-stats.yml/badge.svg)](https://github.com/suvozy/suvozy/actions/workflows/update-stats.yml)  
 [![Latest YouTube Videos](https://github.com/suvozy/suvozy/actions/workflows/youtube-workflow.yml/badge.svg)](https://github.com/suvozy/suvozy/actions/workflows/youtube-workflow.yml)  
+[![Latest blog post workflow](https://github.com/suvozy/suvozy/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/suvozy/suvozy/actions/workflows/blog-post-workflow.yml)  
 
 [website]: https://www.shubhajitsaha.com
 [behance]: https://www.behance.net/suvozy
