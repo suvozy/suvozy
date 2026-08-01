@@ -90,10 +90,8 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 <!-- BLOG-POST-LIST:END -->
 
 ### 🙈 Latest StackOverflow Activity
-<table>
-  <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
-</table>
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 ### 📊 This week I spent my time on
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
