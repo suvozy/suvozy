@@ -68,7 +68,9 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 ---
 
 ### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/M7dP_fW5r28"><img width="140px" src="http://img.youtube.com/vi/M7dP_fW5r28/maxresdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wopdrwVH83w"><img width="140px" src="http://img.youtube.com/vi/wopdrwVH83w/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wopdrwVH83w">New India New Discourse / Suvozy Reacts Rahul Gandhi PC</a><br/>Sep 8, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/M7dP_fW5r28"><img width="140px" src="http://img.youtube.com/vi/M7dP_fW5r28/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/M7dP_fW5r28">Ideology conflict in India #rahulgandhi #constitution #ambedkar #dalitrights #india #twoindia</a><br/>Sep 1, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/HALzaGOtfFA"><img width="140px" src="http://img.youtube.com/vi/HALzaGOtfFA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/HALzaGOtfFA">Discussing Jativaad at IIT  🚀 #rahulgandhi #constitution #ambedkar #dalitrights #india</a><br/>Sep 1, 2026</td></tr></table>
@@ -76,8 +78,6 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 <td><a href="https://www.youtube.com/watch?v=EUkkRi9zamQ">F Patriarchy F RSS F Naren F Amut / Suvozy Reacts</a><br/>Aug 23, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QgfIXwDtmgY"><img width="140px" src="http://img.youtube.com/vi/QgfIXwDtmgY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QgfIXwDtmgY">F Patriarchy F RSS F Naren F Amut / Suvozy Reacts Vertical</a><br/>Aug 23, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/a19cVWWZuq4"><img width="140px" src="http://img.youtube.com/vi/a19cVWWZuq4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/a19cVWWZuq4">Braman auntie takes off 🚀 #Viral #ShwetaJaya #MeghaLawadia #Bramanwad “Bramanwad Zindabad” Girl</a><br/>Mar 2, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
